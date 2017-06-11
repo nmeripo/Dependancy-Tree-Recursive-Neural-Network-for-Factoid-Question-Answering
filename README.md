@@ -1,6 +1,6 @@
 # Dependancy-Tree-Recursive-Neural-Network-for-Factoid-Question-Answering
 
-
+Citation
 ---------------------------------------------------------------------------------------------------
     @inproceedings{Iyyer:Boyd-Graber:Claudino:Socher:Daume-2014,
             Title = {A Neural Network for Factoid Question Answering over Paragraphs},

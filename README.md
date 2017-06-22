@@ -1,4 +1,4 @@
-# Dependancy-Tree-Recursive-Neural-Network-for-Factoid-Question-Answering
+# Dependancy Tree Recursive Neural Network for Factoid Question Answering
 
 Citation
 ---------------------------------------------------------------------------------------------------
